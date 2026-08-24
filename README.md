@@ -42,7 +42,7 @@ Deploy with `npx wrangler deploy`, or use the button above for a fresh Cloudflar
 
 **Your data stays in your account.** The Worker, the storage bindings, and the emitted attestations all live in the Cloudflare account you deployed into.
 
-**MIT, deliberately.** Fork it, rename it, resell it. That is the intended behavior, not a loophole.
+**MIT, deliberately.** Fork it, rename it, resell it. That is the intended behavior.
 
 ## Sponsors
 
