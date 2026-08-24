@@ -1,0 +1,6 @@
+# Handle is hyphenated: mobile-security-guru. The unhyphenated spelling
+# (mobilesecurityguru) 404s the sponsor button. See Linear MOB-617 / MOB-618.
+#
+# Button resolves once the org's Sponsors application is approved (MOB-82).
+github: [mobile-security-guru]
+custom: ["https://mobilesecurity.guru"]
