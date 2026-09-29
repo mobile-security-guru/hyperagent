@@ -1,0 +1,3 @@
+# Paste into your agent
+
+Read the repository at https://github.com/mobile-security-guru/hyperagent and follow AGENTS.md. My seat is Compliance. I will give you our mobile device policy, our most recent access review, the evidence request list from our last audit, our offboarding checklist, and our exceptions register. Work only inside this environment and do not upload or transmit our files. For every policy statement involving a phone, identify the record that proves it was executed, and mark UNKNOWN where no record exists. Then write a remediation plan we can run in-house before the next audit.

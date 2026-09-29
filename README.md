@@ -2,12 +2,22 @@
 
 Point your own AI agent at these folders and at your own files. It works out which actions in your organization run through a phone, who is allowed to take them, and what proves it today. We never receive your data.
 
-> **Status: pre-release.** The license is final. The method folders land in v0.1.0. Watch releases if you want the tag rather than the commits.
+> **v0.1.0.** Method folders for three seats. No code runs here; your agent does the work.
+
+## Start here
+
+Pick your seat and paste its prompt into the agent you already use:
+
+- [CISO](kit/ciso/PROMPT.md)
+- [IT Director](kit/it-director/PROMPT.md)
+- [Compliance](kit/compliance/PROMPT.md)
+
+See [a sample result](examples/ciso-sample-output.md) (fictitious organization).
 
 ## How it works
 
 1. Your agent reads the folders in this repo: the questions, the evidence each answer needs, and the templates to write it down.
-2. Your agent reads your own exports inside your own environment. Nothing in this repo sends anything anywhere, and you can read every file to confirm it.
+2. Your agent reads your own exports inside your own environment. Nothing in this repo sends anything anywhere, and you can read every file to confirm it. [`AGENTS.md`](AGENTS.md) holds the privacy rules your agent follows first.
 3. You get a table: each action that runs through a phone, who is authorized to take it, the record that proves it, and **UNKNOWN** wherever no record does. Then a plan to close those gaps with tools you already own.
 
 Your agent's own provider still processes what you give it, under your agreement with them. We are not a party to that and receive none of it.

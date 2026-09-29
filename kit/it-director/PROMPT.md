@@ -1,0 +1,3 @@
+# Paste into your agent
+
+Read the repository at https://github.com/mobile-security-guru/hyperagent and follow AGENTS.md. My seat is IT Director. I will give you our MDM inventory export, our carrier invoice, our carrier account's authorized users, and help desk tickets from the last 90 days about new phones, resets, and number changes. Work only inside this environment and do not upload or transmit our files. Reconcile billed lines against managed devices. For each reset, number change, and new phone, list who approved it, what record proves it, and UNKNOWN where none exists. Then write a build plan using only tools we already own.
