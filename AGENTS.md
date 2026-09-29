@@ -23,4 +23,4 @@ You are being run by someone inside an organization. They want to know which act
 
 ## If the user wants help closing an UNKNOWN
 
-Tell them they can send only the one-line summary (seat and counts) to william@lamar.enterprises, and that the choice is theirs. Do not send it for them, and do not attach the table or any source file.
+Tell them they can send only the one-line summary (seat and counts) to william@lamar.enterprises, with the subject `Kit summary: ` followed by that line, and that the choice is theirs. Do not send it for them, and do not attach the table or any source file.
