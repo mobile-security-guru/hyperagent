@@ -32,7 +32,7 @@ One folder per seat, each with its own questions and paste-ready prompt:
 
 ## Sponsors
 
-Sponsorship funds new method folders. Tiers start at $25 a month.
+Sponsorship funds new method folders. Tiers start at $75 a month.
 
 [Sponsor Mobile Security Guru](https://github.com/sponsors/mobile-security-guru)
 
